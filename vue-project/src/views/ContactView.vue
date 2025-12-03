@@ -6,7 +6,7 @@
       
       <!-- Personal Info Fieldset -->
       <fieldset class="mb-3 p-3 border rounded">
-        <legend class="float-none w-auto px-2">Personal Informa</legend>
+        <legend class="float-none w-auto px-2">Personal Information</legend>
         
         <div class="mb-3">
           <label for="name" class="form-label">Name</label>
