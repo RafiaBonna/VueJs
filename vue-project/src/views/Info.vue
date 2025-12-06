@@ -1,7 +1,9 @@
 <template>
     <div>
         <h1>{{ text}}</h1>
-        <!-- <h1>"This is number":{{ cars[0] }}</h1> -->
+        <h1>"This is number":{{ cars[0] }}</h1>
+        <h1>"This is cars obj"{{ object }}</h1>
+        <button ></button>
     </div>
 </template>
 
