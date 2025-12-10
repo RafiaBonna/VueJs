@@ -1,8 +1,10 @@
 <template>
     <div>
-        <h1>{{ text}}</h1>
+        <h1>{{ text}hello}</h1>
         <!-- <h1>"This is a number":{{ cars[0] }}</h1> -->
+        
     </div>
+    
 </template>
 
 <script>
