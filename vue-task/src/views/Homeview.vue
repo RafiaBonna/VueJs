@@ -2,8 +2,6 @@
     <div>
         <h1>{{ text}}</h1>
         <!-- <h1>"This is a number":{{ cars[0] }}</h1> -->
-        h5
-
     </div>
     
 </template>
