@@ -15,7 +15,7 @@ export default{
             cars:[2,4,7,9],
             object:{
                 name:"Toyota Brand",
-                model:"39645"
+                model:"3964"
             }
         }
     }
