@@ -14,7 +14,7 @@ export default{
             numbers:34,
             cars:[2,4,7,9],
             object:{
-                name:"Toyota",
+                name:"Toyota Brand",
                 model:"3964"
             }
         }
