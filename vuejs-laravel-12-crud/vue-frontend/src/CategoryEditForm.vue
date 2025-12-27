@@ -84,7 +84,7 @@ export default {
 
             <div class="form-group button-group">
                 <button type="submit" class="btn btn-primary">
-                    Update Category
+                    Update Category :
                 </button>
                 <button type="button" class="btn btn-secondary" @click="cancelEdit">
                     Cancel
