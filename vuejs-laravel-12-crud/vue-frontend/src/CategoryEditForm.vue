@@ -63,7 +63,7 @@ export default {
         
         <form @submit.prevent="updateCategory">
             <div class="form-group">
-                <label for="title-edit">Category Title :</label>
+                <label for="title-edit">Category Title:</label>
                 <input 
                     type="text" 
                     id="title-edit" 
