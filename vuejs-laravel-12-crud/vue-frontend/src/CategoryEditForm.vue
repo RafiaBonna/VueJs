@@ -87,7 +87,7 @@ export default {
                     Update Category :
                 </button>
                 <button type="button" class="btn btn-secondary" @click="cancelEdit">
-                    Cancel :
+                    Cancel 
                 </button>
             </div>
         </form>
