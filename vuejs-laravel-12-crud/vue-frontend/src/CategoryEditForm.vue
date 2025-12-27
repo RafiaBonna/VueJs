@@ -101,7 +101,7 @@ export default {
 <style scoped>
 /* Reusing basic form styles from CategoryForm.vue */
 .category-form-container {
-    padding: 20px;
+    padding: 30px;
     border: 1px solid #ddd;
     border-radius: 8px;
     margin-bottom: 20px;
