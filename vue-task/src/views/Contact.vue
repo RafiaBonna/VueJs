@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>{{ text}}</h1>
-      <h2>hii12345678901234</h2>
+      <h2>hii123456789012345</h2>
     </div>
 </template>
 
