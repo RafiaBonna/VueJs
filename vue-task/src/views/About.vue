@@ -10,7 +10,7 @@ export default{
     data(){
         return{
             count:0,
-            text:"This is a About page",
+            text:"This is a About Page",
             numbers:34,
             cars:[2,4,7,9],
             object:{
