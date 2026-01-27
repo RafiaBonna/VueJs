@@ -12,7 +12,7 @@ export default{
             count:0,
             text:"This is a About Page",
             numbers:34,
-            cars:[2,4,7,9],
+            cars:[2,4,5,7,9],
             object:{
                 name:"BMW",
                 model:"3964"
