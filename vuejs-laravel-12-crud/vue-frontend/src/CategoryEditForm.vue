@@ -74,7 +74,7 @@ export default {
             </div>
 
             <div class="form-group">
-                <label for="description-edit">Description 1:</label>
+                <label for="description-edit">Description :</label>
                 <textarea 
                     id="description-edit" 
                     class="form-control"
